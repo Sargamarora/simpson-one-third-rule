@@ -1,0 +1,1 @@
+# simpson-one-third-rule
